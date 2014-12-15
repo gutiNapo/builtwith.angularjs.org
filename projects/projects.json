@@ -3602,6 +3602,20 @@
         "local weather",
         "local weather forecast"
       ]
+    },
+    {
+      "name": "MyLittlePoll",
+      "thumb": "mylittlepoll/thumb.png",
+      "desc": "MyLittlePoll is the best online decision making website. You create anonymously polls and let the community vote. It is fast, free and easy.",
+      "url": "http://www.mylittlepoll.com/",
+      "submitter": "gutiNapo",
+      "submissionDate": "2014-12-15",
+      "tags": [
+          "Production", 
+          "Entertainment",
+          "Animations", "NodeJS", "Express", "MongoDB", "MEAN Stack" // features and technologies
+          "No jQuery"
+        ]
     }
 
   ]
